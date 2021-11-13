@@ -1,5 +1,4 @@
-### Hi, I'm qwerty, I'm Programmer, I have knowledge basics in Python 
-
+### Hola capo,bueno no se que mierda haces aca pero me presento ya que estoy, soy qwerty y tengo conocimientos Junior en Python y Brainfuck avanzado (ojala)
 <!--
 **qwerty-gba/qwerty-gba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
