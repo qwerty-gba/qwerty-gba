@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm qwerty, I'm Programmer, I have knowledge basics in Python 
 
 <!--
 **qwerty-gba/qwerty-gba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
